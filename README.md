@@ -1,5 +1,6 @@
 passport-ldap example
 
+    $ npm install
     $ node index.js
     $ curl -d username=boyle -d password=password http://localhost:3001/login
 
